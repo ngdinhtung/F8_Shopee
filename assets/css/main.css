@@ -64,7 +64,7 @@
     border-color: transparent transparent var(--white-color) transparent;
     position: absolute;
     right: 10px;
-    top: -22px;
+    top: -20px;
 }
 
 .header__navbar-user-menu::after {
@@ -1229,10 +1229,6 @@ i.home-product-item__like-icon-fill {
 
 .home-product-item__brand {
     margin-right: auto;
-}
-
-.home-product-item__origin-name {
-
 }
 
 .home-product-item__favourite {
